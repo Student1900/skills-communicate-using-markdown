@@ -10,4 +10,4 @@ h6
 |    A    |    B    |
 |    C    |    D    |
 
-![Link an image.](Markdown-mark.svg)
+![Link an image.](Markdown-mark.png)
