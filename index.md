@@ -10,4 +10,5 @@ h6
 |    A    |    B    |
 |    C    |    D    |
 
-![Link an image.](Markdown-mark.png)
+![Link an image.](Markdown-mark.svg.png)
+
